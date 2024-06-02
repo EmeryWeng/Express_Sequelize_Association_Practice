@@ -1,0 +1,7 @@
+# web storm
+.idea/
+.run/
+*.iml
+
+*.env
+node_modules/
